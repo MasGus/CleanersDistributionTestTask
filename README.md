@@ -11,4 +11,4 @@
 
 ## Functionality
 * Input of the application - path of file (JSON with data for calculations)
-* The application returns a String - array of maps which include the optimal number of Juniors and Seniors cleaners
+* The application returns a String - array of maps which include the optimal number of Juniors and Seniors
